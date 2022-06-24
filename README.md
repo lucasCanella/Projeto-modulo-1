@@ -2,17 +2,19 @@
 # <center>Projeto de Conclusão -  Módulo 1 - Curso Data Analyst</center>
 
 <marquee>
-<img src="https://user-images.githubusercontent.com/40433498/174663148-44c2b1b9-fcc3-4468-b1e3-64699a2ac19b.png" width="3000" height="300" />
+<img src="https://www.resilia.com.br/wp-content/uploads/2021/08/logo.png" width="1000" height="300" />
+ <img src="https://media.giphy.com/media/ltB5sT9UUwe3FH9nZQ/giphy-downsized-large.gif" width="1350" height="" />
+
 </marquee>
 
 
 ### OBJETIVO
-O objetivo do projeto é desenvolver um fale conosco automático, em Python,para uma emprersa de viagens,para empresa ReVi, onde o atendimento contará com as opções abaixo:  
+O objetivo do projeto é desenvolver um fale conosco automático em Python, para a Revi, uma empresa de viagens, onde o atendimento contará com as opções abaixo:  
 1. Dúvidas
 2. Consultas
 3. Informações
 4. Sair
-5. Acrescentamos ao sitema a opção de pacotes adicionais 
+5. Acrescentamos ao sistema a opção de pacotes adicionais 
 
 ### SOBRE A REVI
 <img src="https://user-images.githubusercontent.com/40433498/174669731-dc5621b9-bc5d-44c4-9227-1809697d39ac.png" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
@@ -39,7 +41,7 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
   
   
 <p align="left"> 
-  No projeto autou como <strong>Gestora de gente e engajamento</strong>.<br>
+  No projeto atuou como <strong>Gestora de gente e engajamento</strong>.<br>
  Responsável por garantir que todos estão trabalhando bem e estão cumprindo suas funções</p>
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
@@ -59,7 +61,7 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
   
   
 <p align="left"> 
-  No projeto autou como<strong> Gestora de conhecimento,</strong>.<br>
+  No projeto atuou como<strong> Gestora de conhecimento,</strong>.<br>
   Responsável por registrar e garantir a documentação de todo o processo.
 </p>
 <p align="left">
@@ -80,7 +82,7 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
   
   
 <p align="left"> 
-   No projeto atou como <strong> Co-Facilitadora </strong>.<br>
+   No projeto atuou como <strong> Co-Facilitadora </strong>.<br>
    Responsável por facilitar as reuniões e irecionar o tempo para cadas sprint.
 </p>
 <p align="left">
@@ -105,8 +107,8 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
   
   
 <p align="left"> 
-  No projeto atou como <strong> Colaborador </strong>.<br>
-  Responsável por garantir o cumprimento de funcções e ações.
+  No projeto atuou como <strong> Colaborador </strong>.<br>
+  Responsável por garantir o cumprimento de funções e ações.
 </p>
 
 <p align="left">
@@ -122,3 +124,4 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
      <a href="https://github.com/lucasCanella/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
 </p>  
   
+
